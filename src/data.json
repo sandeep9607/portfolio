@@ -1,0 +1,175 @@
+{
+  "active": [
+    {
+      "name": "PROFIT: Business Finance Tools",
+      "image": "/assets/images/profit.webp",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/us/app/profit-business-finance-tools/id1607383003" },
+        { "label": "Play Store", "url": "https://play.google.com/store/apps/details?id=com.bankwithprofit.profitbanking&hl=en" }
+      ],
+      "description": "Profit simplifies business finances with prepaid cards, automated bookkeeping, invoicing, payments, and banking in one app."
+    },
+    {
+      "name": "Tripattendynt",
+      "image": "/assets/images/tripattendynt.webp",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/us/app/tripattendynt/id6670303549" },
+        { "label": "Play Store", "url": "https://play.google.com/store/apps/details?id=com.trip.attendynt" }
+      ],
+      "description": "With Tripattendynt, friendly local attendants guide you through every step of your journey, making your travels seamless, enjoyable, and unforgettable."
+    },
+      {
+      "name": "AQI",
+      "image": "assets/images/aqi.webp",
+      "platform": "iOS",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/tt/app/aqi/id1439684571?platform=iphone" }
+      ],
+      "description": "The AQI Air Quality app provides real-time air quality, weather, and fire data, tracking pollutants like PM2.5, CO, and ozone to help plan outdoor activities."
+    },
+    {
+      "name": "InstaExpert",
+      "image": "/assets/images/instaexpert.webp",
+      "platform": "iOS",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/us/app/instaxpert/id1487686682" }
+      ],
+      "description": "An app connecting clients in the USA, India, and Canada with lawyers for 30-minute video consultations anytime, anywhere."
+    },
+    {
+      "name": "Upflyte",
+      "image": "/assets/images/upflyte.png",
+      "platform": "iOS",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/us/app/upflyte/id6450761318" }
+      ],
+      "description": "UpFlyte streamlines aircraft management with real-time fleet visibility, and simplifies bookings with recurring appointments, self-scheduling, and maintenance notifications."
+    },
+    {
+      "name": "HappyLifter",
+      "image": "/assets/images/happylifter.png",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/in/app/happy-lifters/id1574284172" },
+        { "label": "Play Store", "url": "https://play.google.com/store/apps/details?id=com.happyLifter" }
+      ],
+      "description": "Happy Lifters is your all-in-one app for calorie counting, custom diets, step tracking, progress monitoring, recipes, and coaching, promoting a healthy lifestyle."
+    },
+    {
+      "name": "MIXIE - Insider guide",
+      "image": "/assets/images/mixie.jpg",
+      "platform": "iOS",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/us/app/download/id1411353408" }
+      ],
+      "description": "Mixie is an exclusive club offering curated dining experiences at top restaurants and bars, with a redeemable cocktail or appetizer on every visit."
+    },
+    {
+      "name": "NiceLeads",
+      "image": "/assets/images/niceleads.webp",
+      "platform": "iOS",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/us/app/niceleads/id1561013535" }
+      ],
+      "description": "NiceLeads helps you discover the value of your relationships every day by matching members who can help each other based on their stated preferences."
+    },
+    {
+      "name": "Golfbevy",
+      "image": "/assets/images/golfbevy.webp",
+      "platform": "iOS",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/us/app/golfbevy/id1559669520" }
+      ],
+      "description": "GolfBevy helps you play more golf! We believe it is more powerful to receive an invitation to play from your friends, or golfers you’d like to play with, than find a game on your own."
+    },
+    {
+      "name": "FitMix Pro",
+      "image": "/assets/images/fitmax.webp",
+      "platform": "iOS",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/gb/app/fitmix-pro/id1303397735" }
+      ],
+      "description": "The music app exclusively for Fitness Professionals. Choose the tracks for your fitness class, select the speeds, and the AutoDJ creates your seamless mix in minutes!"
+    }
+  ],
+  "inactive": [
+    {
+      "name": "Mesocial",
+      "image": "/assets/images/mesocial.jpg",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "Play Store", "url": "https://play.google.com/store/apps/details?id=com.isayinnovate.mesocial" }
+      ],
+      "description": "Connect, share, and discover with friends on Mesocial – where every moment matters!"
+    },
+    {
+      "name": "Foodfasty",
+      "image": "./assets/images/food_fasty.png",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "Play Store", "url": "https://play.google.com/store/apps/details?id=com.foodfasttyc" }
+      ],
+      "description": "New food offer & food delivery service at your home #vocale shop at your one click our service start"
+    },
+    {
+      "name": "Fisart (Patient)",
+      "image": "/assets/images/google-play.png",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/in/app/fisart/id1515484542" },
+        { "label": "Play Store", "url": "https://play.google.com/store/apps/details?id=com.fisart.fisart" }
+      ],
+      "description": "A patient engagement app that offers telehealth access, real-time updates, and 24-hour online check-in for streamlined intake, saving time for both patients and providers."
+    },
+    {
+      "name": "Fisart for Doctors",
+      "image": "./assets/images/app-store.png",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "App Store", "url": "https://apps.apple.com/in/app/fisart-for-doctor/id1521196973" },
+        { "label": "Play Store", "url": "https://play.google.com/store/apps/details?id=fisart.fisartdoctor.fisartdoctor" }
+      ],
+      "description": "Best App for Online Doctor Consultation, Booking Lab Tests, Ordering Medicine & OTC Products with Best Offers."
+    },
+    {
+      "name": "Hawala Wallet",
+      "image": "/assets/images/hawala.png",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "Play Store", "url": "#" }
+      ],
+      "description": "Hawala Wallet is a multi-chain self-custody cryptocurrency wallet and secure gateway to thousands of Web3 decentralized applications."
+    },
+    {
+      "name": "MY JINI",
+      "image": "./assets/images/myjini.webp",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "Play Store", "url": "https://play.google.com/store/apps/details?id=com.itfuturz.mygenie_member" }
+      ],
+      "description": "My Jini App is an online technology for housing & commercial societies management with multiple options of convenience."
+    },
+    {
+      "name": "GameTime Fantasy",
+      "image": "/assets/images/game_time.png",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "App Store", "url": "https://play.google.com/store/apps" },
+        { "label": "Play Store", "url": "https://www.apple.com/app-store/" }
+      ],
+      "description": "GameTime Fantasy is an exciting app that lets you create and manage fantasy sports teams, compete in real-time, and track your progress with friends and fellow sports fans."
+    },
+    {
+      "name": "Inter United (Online shopping)",
+      "image": "./assets/images/flutter.jpg",
+      "platform": "iOS / Android",
+      "links": [
+        { "label": "App Store", "url": "https://play.google.com/store/apps" },
+        { "label": "Play Store", "url": "https://www.apple.com/app-store/" }
+      ],
+      "description": "An easy-to-use online shopping app that offers a wide range of products, seamless browsing, and secure checkout for a convenient shopping experience anytime, anywhere."
+    }
+  ]
+}
